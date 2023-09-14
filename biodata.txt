@@ -1,0 +1,9 @@
+Nama:Armelia Luvita Sari
+NPM:20312057
+Prodi:Informatika
+
+Link hasil perencanaan sistem menggunakan BRD:
+https://drive.google.com/file/d/18VrCPKZd6ABmSD-2iZi_UuuI3UVpE-Bs/view?usp=sharing
+
+Link hasil perencanaan sistem menggunakan Trello:
+https://trello.com/invite/b/e1UFPkDN/ATTIaf8be64f5db072492f6533bf1ed3e6984BA567F5/implementasi-sistem-pemesanan-makanan-dan-pembayaran-elektronik-untuk-mengatasi-antrian-di-kantin-sma-xyz

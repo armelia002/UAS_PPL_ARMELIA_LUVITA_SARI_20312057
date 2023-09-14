@@ -1,0 +1,30 @@
+Nama:Armelia Luvita Sari
+NPM:20312057
+Kode Soal:A
+
+1. Sistem apa yang anda kembangkan?
+Jawab:Implementasi Sistem Pemesanan Makanan dan Pembayaran Elektronik untuk Mengatasi Antrian di Kantin SMA XYZ
+
+2. Permasalahan apa yang terjadi pada studi kasus anda?
+Jawab:Proyek ini bertujuan untuk mengatasi masalah antrian panjang di kantin dan pembayaran tunai di SMA XYZ dengan mengembangkan sistem pemesanan makanan dan pembayaran elektronik. Sistem ini akan memungkinkan siswa dan guru untuk memesan makanan secara online, mengurangi antrian, dan memberikan pengalaman bertransaksi yang lebih baik di kantin.
+
+Deskripsi Sistem:
+- Sistem akan dikembangkan menggunakan platform web yang terintegrasi dengan keuangan sekolah.
+- Sistem akan menyimpan database menu, stok, pemesanan, dan transaksi.
+- Sistem akan terbagi menjadi dua modul, yaitu modul admin untuk mengelola data dan modul user untuk menampilkan menu.
+- Tantangan proyek termasuk waktu pengembangan yang terbatas untuk selesai pada tahun ajaran baru, anggaran dana yang terbatas untuk biaya hosting dan domain, serta kesiapan infrastruktur IT yang belum memadai di sekolah.
+
+3. Apa solusi yang dapat anda berikan pada permasalahan tersebut?
+Jawab:
+- Meningkatkan efisiensi operasional di kantin sekolah SMA XYZ dengan mengimplementasikan sistem pemesanan makanan online dan pembayaran elektronik.
+- Mengatasi masalah antrian panjang di kantin.
+- Memberikan pengalaman bertransaksi yang lebih baik dengan menggantikan pembayaran tunai dengan pembayaran elektronik, sehingga mempercepat proses pembayaran dan membuatnya lebih efisien.
+- Proyek ini juga harus mengatasi kendala anggaran terbatas untuk biaya hosting dan domain, serta kesiapan infrastruktur IT yang belum memadai di sekolah. Ini mencakup mencari solusi yang efisien dan terjangkau untuk memenuhi kebutuhan teknis proyek.
+
+4. Apa yang menjadi nilai lebih solusi yang anda hadirkan dari sistem/solusi yang sudah ada?
+Jawab:
+- Meningkatkan efisiensi operasional di kantin sekolah SMA XYZ dengan mengimplementasikan sistem pemesanan makanan online dan pembayaran elektronik.
+- Mengatasi masalah antrian panjang di kantin.
+
+5. Apa saja kendala dan resiko yang mungkin akan anda hadapi selama pengembangan sistem?
+Jawab: Ancaman peretasan, Kerusakan data dan Kinerja situs web yang dibuat tidak maksimal
